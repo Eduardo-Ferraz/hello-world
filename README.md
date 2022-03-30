@@ -1,7 +1,7 @@
 # hello-world
-This is my first repository
+This is my first repository in GitHub
 
-## Hey, I'm Eduardo
+## Hey, I'm Eduardo :)
 And these are my interests in learning code for now:
 
 - C
@@ -11,4 +11,4 @@ And these are my interests in learning code for now:
 - JavaScript
 - TypeScript
 
-This list might change in future days
+*This list might change in future days*
