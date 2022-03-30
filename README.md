@@ -1,7 +1,7 @@
 # hello-world
 This is my first repository
 
-## Hello, I'm Eduardo
+## Hey, I'm Eduardo
 And these are my interests in learning code for now:
 
 - C
