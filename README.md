@@ -6,7 +6,8 @@ And these are my interests in learning code for now:
 
 - C
 - Python
-- HTML / CSS
+- HTML
+- CSS
 - JavaScript
 - TypeScript
 
